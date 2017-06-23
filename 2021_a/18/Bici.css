@@ -1,0 +1,42 @@
+body {
+	background-image: url("girl.jpg");
+	color: #000000;
+}
+
+
+a {
+	color: #ED1111;
+}
+
+.Bici_1{
+	float:center;
+}
+
+.Bici_2{
+	margin-top:50px;margin-bottom:50px;
+}
+
+.Bici_3{
+	clear:both;
+}
+
+.Bici_Q{
+	padding:30px;margin:10px;
+}
+
+.Bici_W{
+	float:left;
+}
+
+.Bici_E{
+	width:190px;
+}
+
+#Bici_X{
+	max-width:450px;
+}
+
+#Bici_Y{
+	height:190px;
+}
+
